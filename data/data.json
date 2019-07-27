@@ -1,0 +1,18 @@
+{
+    "data1":[
+        {"name":"华金俩年投","productType": "100","month":"24"},
+        {"name":"聚融-房产抵押贷","productType": "23.3","month":"12"},
+        {"name":"中兴-飞贷","productType": "30","month":"6"},
+        {"name":"51-即刻有","productType": "100","month":"9"},
+        {"name":"新浪有还","productType": "96.9","month":"24"},
+        {"name":"拍拍贷","productType": "50.3","month":"12"},
+        {"name":"光大银行信用卡","productType": "60","month":"6"}
+    ],
+    "data2":[
+        {"name":"新浪有还","productType": "96.9","month":"24"},
+        {"name":"拍拍贷","productType": "50.3","month":"12"},
+        {"name":"光大银行信用卡","productType": "60","month":"6"},
+        {"name":"你我贷","productType": "90","month":"9"}
+    ]
+}
+
